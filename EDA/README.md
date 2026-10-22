@@ -154,9 +154,9 @@ Top 10 shown below (full output is in the SQL file):
 2. Run each script in order:
 
 ```bash
-duckdb your_database.duckdb < 1_top_demanded_skills.sql
-duckdb your_database.duckdb < 2_top_paying_skills.sql
-duckdb your_database.duckdb < 3_optimal_skills.sql
+duckdb data_jobs.duckdb < 1_top_demanded_skills.sql
+duckdb data_jobs.duckdb < 2_top_paying_skills.sql
+duckdb data_jobs.duckdb < 3_optimal_skills.sql
 ```
 
 Each file includes its result table in a trailing comment block for reference.
