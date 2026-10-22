@@ -78,5 +78,5 @@ Each project's own README has the exact steps and any project-specific notes.
 
 ## About
 
-Built by **[Devesh Simariya]**
+Built by **Devesh Simariya**
 
